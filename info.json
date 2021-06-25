@@ -1,4 +1,4 @@
-{
+'{
 	"version" : "1.0.1",
 	"download_url" : "https://github.com/tomreents/tent-apps-sendex/sendex.zip",
 	"requires" : "3.0",
@@ -18,4 +18,4 @@
 		"<ol><li><a href='https://github.com/tomreents/tent-apps-sendex/blob/main/UI_screenshot.PNG' target='_blank'><img src='https://github.com/tomreents/tent-apps-sendex/blob/main/UI_screenshot.PNG' alt='CAPTION' /></a><p>User Interface</p></li></ol>",
 		"<ol><li><a href='https://github.com/tomreents/tent-apps-sendex/blob/main/settings.PNG' target='_blank'><img src='https://github.com/tomreents/tent-apps-sendex/blob/main/settings.PNG' alt='CAPTION' /></a><p>Twillio api details</p></li></ol>"
 	}
-}
+}'
