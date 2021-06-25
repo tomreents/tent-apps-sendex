@@ -10,7 +10,7 @@
 		"installation" : "A wordpress plugin for sending mass sms messages to Mailpoet Lists using Twillio",
 		"changelog" : "<h4>1.0.1 –  June 24, 2021</h4><ul><li>Some bugs are fixed.</li><li>Release date.</li></ul>"
 	},
-	"banners" : }
+	"banners" : {
 		"low" : "https://YOUR_WEBSITE/banner-772x250.jpg",
 		"high" : "https://YOUR_WEBSITE/banner-1544x500.jpg"
 	},
