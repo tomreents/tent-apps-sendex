@@ -1,6 +1,6 @@
 {
 	"version" : "1.0.1",
-	"download_url" : "https://github.com/tomreents/tent-apps-sendex/sendex.zip",
+	"download_url" : "https://github.com/tomreents/tent-apps-sendex/blob/main/sendex.zip",
 	"requires" : "3.0",
 	"tested" : "4.8.1",
 	"requires_php" : "5.3",
